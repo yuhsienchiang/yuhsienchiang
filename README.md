@@ -6,7 +6,7 @@
 
 - 💬 Ask me about:          **Machine Learning, Computer Vision, AI Chatbot**
 
-- 📫 How to reach me:       **yuhsien.sam.chiang@gmail.com**
+- 📫 How to reach me:       yuhsien.sam.chiang@gmail.com
 
 - ⚡ Fun fact:
   - Love photograpy! Please visit my [Personal photography collections](www.sammyphotograph.com)
