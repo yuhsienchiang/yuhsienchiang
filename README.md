@@ -8,9 +8,7 @@
 
 - 📫 How to reach me:       yuhsien.sam.chiang@gmail.com
 
-- ⚡ Fun fact:
-  - Love photograpy! Please visit my [Personal photography collections](https://www.sammyphotograph.com)
-  - btw I use neovim
+- ⚡ Fun fact: love [Photography](https://www.sammyphotograph.com); btw I use neovim
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
