@@ -2,7 +2,7 @@
 <p align="center">A recent master's graduate passionate in AI/ML. Based in Melbourne. </p>
 <p align="center">Actively search for a ML engineer position.</p>
   
-- 🔭 I’m currently working on [snake-ai](https://github.com/yuhsienchiang/snake-ai)
+- 🔭 I’m currently working on [lstm-forecast](https://github.com/yuhsienchiang/lstm-forecast)
 
 - 💬 Ask me about:          **Machine Learning, Computer Vision, AI Chatbot**
 
